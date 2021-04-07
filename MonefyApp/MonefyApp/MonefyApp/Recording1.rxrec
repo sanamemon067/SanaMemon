@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="d604b391-5acc-42f1-8c6f-678837e0f4fb"
+mode="Mobile">
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="Recording1"
+	namespace="MonefyApp">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+	</recorditems>
+	<repository
+	id="ddfc54bd-928f-41cd-aeb5-ea5fef12effe"
+	name="MonefyAppRepository"
+	relativepath="MonefyAppRepository.rxrep">
+		<codegen
+		classname="MonefyAppRepository"
+		namespace="MonefyApp">
+		</codegen>
+		<rootfolder
+		id="8b724c80-317d-4b05-9ebf-87ce5d5af37d"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		Recording1.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>

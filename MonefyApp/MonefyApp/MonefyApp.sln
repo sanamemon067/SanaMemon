@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+# Ranorex Studio 9.3.0
+VisualStudioVersion = 12.0.20827.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3D4810B9-B4F7-494B-B0F9-8AF1EB67418C}"
+	ProjectSection(SolutionItems) = postProject
+		Ranorex = .\Ranorex.rxsettings
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonefyApp", "MonefyApp\MonefyApp.csproj", "{A2447CC8-B5AC-4012-95B4-05EFF51F7D73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2447CC8-B5AC-4012-95B4-05EFF51F7D73}.Debug|x86.Build.0 = Debug|x86
+		{A2447CC8-B5AC-4012-95B4-05EFF51F7D73}.Debug|x86.ActiveCfg = Debug|x86
+		{A2447CC8-B5AC-4012-95B4-05EFF51F7D73}.Release|x86.Build.0 = Release|x86
+		{A2447CC8-B5AC-4012-95B4-05EFF51F7D73}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+EndGlobal
